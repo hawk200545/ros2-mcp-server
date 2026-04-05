@@ -39,7 +39,7 @@ A **dynamic ROS2 MCP (Model Context Protocol) server** with vision support that 
 1. **Clone the Repository**:
    ```bash
    cd ~/tools  # or your preferred directory
-   git clone https://github.com/kakimochi/ros2-mcp-server.git
+   git clone https://github.com/hawk200545/ros2-mcp-server.git
    cd ros2-mcp-server
    ```
 
